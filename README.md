@@ -12,9 +12,9 @@ I'm a passionate developer who loves building modern web applications, exploring
 
 A full-stack e-commerce application with authentication, product management, shopping cart, and payment integration.
 
-**Tech Stack:** React • Node.js • Express • MongoDB
+**Tech Stack:** Angular • Node.js • Express • MongoDB
 
-🔗 [View Project](https://github.com/yourusername/ecommerce)
+🔗 [View Project](https://github.com/renurevzranju/angular-store)
 
 ---
 
